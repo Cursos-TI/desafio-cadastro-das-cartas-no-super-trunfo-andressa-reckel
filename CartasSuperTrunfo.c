@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-
+    // Desafio nível novato
     // Declaração de variáveis Carta 1
 char estado1 ='';
 char codigoCarta1[20] = ""; 
